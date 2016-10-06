@@ -1,17 +1,8 @@
 {
   "name": "weather",
   "version": "1.0.0",
-  "description": "nothing more than a weather app.",
+  "description": "simple weather app",
   "main": "index.js",
-  "dependencies": {
-    "vue-router": "^2.0.0"
-  },
-  "devDependencies": {
-    "css-loader": "^0.25.0",
-    "html-webpack-plugin": "^2.22.0",
-    "style-loader": "^0.13.1",
-    "webpack": "^1.13.2"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
